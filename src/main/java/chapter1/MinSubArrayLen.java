@@ -1,4 +1,4 @@
-package chater1;
+package chapter1;
 
 public class MinSubArrayLen {
     public int minSubArrayLen(int target, int[] nums) {

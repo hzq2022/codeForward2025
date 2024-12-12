@@ -1,4 +1,4 @@
-package chater1;
+package chapter1;
 
 public class GenerateMatrix {
     public int[][] generateMatrix(int n) {

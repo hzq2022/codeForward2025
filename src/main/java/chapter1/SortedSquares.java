@@ -1,4 +1,4 @@
-package chater1;
+package chapter1;
 
 public class SortedSquares {
     public int[] sortedSquares(int[] nums) {
